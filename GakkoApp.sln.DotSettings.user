@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=63ddc3a4_002Dd826_002D42ab_002Dacf7_002De272c97c655f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetStudents_Should_Return_List_Of_Students #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::5773B454-A8E2-4C23-9852-E9A16EA1D983::net8.0::GakkoAppHorizontalTests.StudentsServiceTests.GetStudents_Should_Return_List_Of_Students&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7589f940_002Daec4_002D48ac_002Da9e1_002D6136b5ab3e62/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetStudents_Should_Return_List_Of_Students" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::5773B454-A8E2-4C23-9852-E9A16EA1D983::net8.0::GakkoAppHorizontalTests.StudentsServiceTests.GetStudents_Should_Return_List_Of_Students&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
